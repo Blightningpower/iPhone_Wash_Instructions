@@ -2,7 +2,7 @@ import os
 import json
 
 # Gebruik forward slashes voor de paddefinities
-file_path = os.path.expanduser('~/OneDrive/Documenten/Code/Python/Autowas_Cyclus/auto_cycle.json')
+file_path = os.path.expanduser('https://blightningpower.github.io/iPhone_Wash_Instructions/Autowas_Cyclus/auto_cycle.json')
 
 # De cyclus van autowasacties
 cycle = [
